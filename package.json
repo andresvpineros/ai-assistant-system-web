@@ -1,5 +1,5 @@
 {
-  "name": "ai-assistant-system-client",
+  "name": "ai-assistant-system-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
